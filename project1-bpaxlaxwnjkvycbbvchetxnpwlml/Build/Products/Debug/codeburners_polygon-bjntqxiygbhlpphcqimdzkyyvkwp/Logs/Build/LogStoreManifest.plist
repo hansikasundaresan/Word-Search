@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>13484F61-6581-42C5-A0C6-E0DDC3B0A5DF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>13484F61-6581-42C5-A0C6-E0DDC3B0A5DF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>codeburners polygon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>codeburners polygon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build codeburners polygon</string>
+			<key>timeStartedRecording</key>
+			<real>591215450.33130896</real>
+			<key>timeStoppedRecording</key>
+			<real>591215450.79284894</real>
+			<key>title</key>
+			<string>Build codeburners polygon</string>
+			<key>uniqueIdentifier</key>
+			<string>13484F61-6581-42C5-A0C6-E0DDC3B0A5DF</string>
+		</dict>
+		<key>3D4C4B5F-6E9E-496B-B27D-06CCA26CCBF6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3D4C4B5F-6E9E-496B-B27D-06CCA26CCBF6.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>codeburners polygon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>codeburners polygon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build codeburners polygon</string>
+			<key>timeStartedRecording</key>
+			<real>590880508.69136405</real>
+			<key>timeStoppedRecording</key>
+			<real>590880509.31771696</real>
+			<key>title</key>
+			<string>Build codeburners polygon</string>
+			<key>uniqueIdentifier</key>
+			<string>3D4C4B5F-6E9E-496B-B27D-06CCA26CCBF6</string>
+		</dict>
+		<key>7B23A89E-2F02-413B-9166-F6B93D3EA8D1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7B23A89E-2F02-413B-9166-F6B93D3EA8D1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>codeburners polygon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>codeburners polygon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build codeburners polygon</string>
+			<key>timeStartedRecording</key>
+			<real>591216633.40437901</real>
+			<key>timeStoppedRecording</key>
+			<real>591216633.97453296</real>
+			<key>title</key>
+			<string>Build codeburners polygon</string>
+			<key>uniqueIdentifier</key>
+			<string>7B23A89E-2F02-413B-9166-F6B93D3EA8D1</string>
+		</dict>
+		<key>845C1189-4AEF-4738-B368-7E32EE6DA177</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>845C1189-4AEF-4738-B368-7E32EE6DA177.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>codeburners polygon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>codeburners polygon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build codeburners polygon</string>
+			<key>timeStartedRecording</key>
+			<real>591215493.97544599</real>
+			<key>timeStoppedRecording</key>
+			<real>591215494.42570698</real>
+			<key>title</key>
+			<string>Build codeburners polygon</string>
+			<key>uniqueIdentifier</key>
+			<string>845C1189-4AEF-4738-B368-7E32EE6DA177</string>
+		</dict>
+		<key>8616FB6C-6272-45E6-A1D2-C0C7D69A5385</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8616FB6C-6272-45E6-A1D2-C0C7D69A5385.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>codeburners polygon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>codeburners polygon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build codeburners polygon</string>
+			<key>timeStartedRecording</key>
+			<real>591215510.73618996</real>
+			<key>timeStoppedRecording</key>
+			<real>591215511.36799705</real>
+			<key>title</key>
+			<string>Build codeburners polygon</string>
+			<key>uniqueIdentifier</key>
+			<string>8616FB6C-6272-45E6-A1D2-C0C7D69A5385</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

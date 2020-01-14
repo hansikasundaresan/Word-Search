@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>E70EB395-F37B-4357-AAAD-2AE6F3720E3A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E70EB395-F37B-4357-AAAD-2AE6F3720E3A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>codeburners polygon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>codeburners polygon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug codeburners polygon</string>
+			<key>timeStartedRecording</key>
+			<real>590880509.25418997</real>
+			<key>timeStoppedRecording</key>
+			<real>590880514.73110902</real>
+			<key>title</key>
+			<string>Debug codeburners polygon</string>
+			<key>uniqueIdentifier</key>
+			<string>E70EB395-F37B-4357-AAAD-2AE6F3720E3A</string>
+		</dict>
+		<key>F61E24BA-82E1-4553-B65D-C30F1C04F0BE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F61E24BA-82E1-4553-B65D-C30F1C04F0BE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>codeburners polygon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>codeburners polygon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug codeburners polygon</string>
+			<key>timeStartedRecording</key>
+			<real>591215511.31960797</real>
+			<key>timeStoppedRecording</key>
+			<real>591216633.51467001</real>
+			<key>title</key>
+			<string>Debug codeburners polygon</string>
+			<key>uniqueIdentifier</key>
+			<string>F61E24BA-82E1-4553-B65D-C30F1C04F0BE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

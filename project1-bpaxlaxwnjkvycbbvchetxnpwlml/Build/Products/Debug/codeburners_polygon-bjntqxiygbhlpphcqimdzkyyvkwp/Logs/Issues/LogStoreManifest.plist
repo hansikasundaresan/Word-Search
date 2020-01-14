@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>54BF532C-C23C-4B10-BF3C-973D380151B2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>54BF532C-C23C-4B10-BF3C-973D380151B2.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>codeburners_polygon-bjntqxiygbhlpphcqimdzkyyvkwp</string>
+			<key>timeStartedRecording</key>
+			<real>591216633.56022799</real>
+			<key>timeStoppedRecording</key>
+			<real>591216633.96785796</real>
+			<key>title</key>
+			<string>Build target codeburners polygon</string>
+			<key>uniqueIdentifier</key>
+			<string>54BF532C-C23C-4B10-BF3C-973D380151B2</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
